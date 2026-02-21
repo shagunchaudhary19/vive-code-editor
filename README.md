@@ -2,7 +2,7 @@
 
 Vibe Code Editor is a high-performance, web-based IDE built with **Next.js 15**, **Monaco Editor**, and **WebContainers**. It provides a seamless development experience directly in your browser, allowing you to write, run, and manage code with a professional-grade interface.
 
-![Vibe Code Editor Hero](https://github.com/shagunchaudhary19/vive-code-editor/raw/main/public/hero.png) *(Note: Add your own hero image or screenshot here)*
+![Vibe Code Editor Hero](https://github.com/shagunchaudhary19/vive-code-editor/raw/main/public/hero.png)
 
 ## ✨ Key Features
 
